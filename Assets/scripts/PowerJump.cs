@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class PowerJump : MonoBehaviour {
 	public Movement PlayerMovment;
-	public powerupmaneger PUM;
+	public PowerupManager PUM;
 	
 	
 	// Use this for initialization

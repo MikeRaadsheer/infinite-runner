@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class powerupmaneger : MonoBehaviour {
+public class PowerupManager : MonoBehaviour {
 	public Movement PlayerMovment;
 	public PowerJump powerjump;
 
